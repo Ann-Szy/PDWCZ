@@ -1,5 +1,3 @@
-%%file app.py
-
 import pickle
 from math import log10
 
